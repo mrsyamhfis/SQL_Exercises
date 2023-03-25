@@ -7,3 +7,4 @@
 
 ### Data Analysis Exercise:
 1. https://console.cloud.google.com/bigquery?sq=381993035353:46337de15b354bafa27a6232ec356881
+2. https://console.cloud.google.com/bigquery?sq=381993035353:bf14689279c74b07a2b581ba377c8cdd
